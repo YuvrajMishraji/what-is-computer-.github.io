@@ -38,7 +38,7 @@ p{
 }
 
 .image{
-    background-image: url("/images/doned\ in\ yellow.png");
+    background-image: url('./images/doned\ in\ yellow.png');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
