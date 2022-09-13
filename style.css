@@ -1,0 +1,72 @@
+p{ 
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 1000;
+    text-transform: uppercase;
+}
+
+.p2{
+    text-align: left;
+    font-size: xx-large;
+    text-transform: none;
+    font-weight: 500;
+}
+
+.s1{
+   color: blue;
+}
+
+.p3{
+    text-align: left;
+    font-size: xx-large;
+    text-transform: none;
+    font-weight: 500;
+    
+}
+
+.p4{
+    text-align: left;
+    font-size: xx-large;
+    text-transform: none;
+    font-weight: 500;
+    color: black;
+    
+}
+
+.s2{
+    color: black;
+}
+
+.image{
+    background-image: url('/images/doned\ in\ yellow.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+   
+}
+
+.s3{
+    color: blue;
+}
+
+.s4{
+    color: blue;
+}
+
+.p5{
+    text-align: left;
+    font-size: xx-large;
+    text-transform: none;
+    font-weight: 500;
+    color:blue;
+    
+}
+
+.s5{
+    color:black
+}
+
+.s6{
+    text-decoration: underline;
+    color: black;
+}
